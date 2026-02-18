@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 cvxcv
 xzvndsv
+=======
+i have created the mylearn4.txt  file 
+>>>>>>> eee7f0d45ae009369cc23f8cdf15439299f7c96e
