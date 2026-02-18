@@ -2,3 +2,5 @@ today nother file i have created which is mylearn7.txt
 this file i am going to push to github websit
 this is now file i am going to state code
 one
+git add mylearn6 "new text masseges
+ has been added"
