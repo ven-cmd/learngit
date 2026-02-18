@@ -4,3 +4,6 @@ this is now file i am going to state code
 one
 git add mylearn6 "new text masseges
  has been added"
+
+ this is my first changes 
+ 
