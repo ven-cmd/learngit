@@ -6,4 +6,6 @@ git add mylearn6 "new text masseges
  has been added"
 
  this is my first changes 
+
+ whic is this ?
  
